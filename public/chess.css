@@ -1,0 +1,20 @@
+.white {
+  background-color: wheat;
+}
+.black {
+  background-color: rebeccapurple;
+}
+#chess {
+  height: 800px;
+  width: 800px;
+  border: inset black;
+  border-width: 10px;
+  margin: auto;
+  background-color: black;
+}
+td {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-size: 65px;
+}
