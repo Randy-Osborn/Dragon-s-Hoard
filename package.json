@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Randy-Osborn/Dragon-s-Hoard#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
